@@ -1,8 +1,6 @@
 # qiankun-demo
 
-qiankun demo
-
-qiankun + vue + react + angular 模板；多环境基座 + 多微应用
+🚀qiankun + vue + react + angular 模板；多环境基座 + 多微应用
 
 ## 基座
 - [x] Nuxt.js => main-nuxt
