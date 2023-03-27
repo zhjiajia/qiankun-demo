@@ -15,3 +15,15 @@
 - [x] Vue2 => sub-vue
 - [x] Vue3 => sub-vue3
 - [ ] Angular => sub-angular
+
+## install
+```shell
+npm run install
+```
+
+## start
+```shell
+npm run start
+
+# 切换主应用可在 package.json 中修改。
+```
